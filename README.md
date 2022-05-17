@@ -2,12 +2,6 @@
 
 ## Opa, eu sou o Welison 🤙🏽
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=WelisonBR&theme=dracula&show_icons=true"/> 
-    <img height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelisonBR&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<br>
-
 ## ⚡ Tecnologias
 
 <div style="display: inline_block">
@@ -25,3 +19,11 @@
     <a href="https://github.com/WelisonBR"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/welison-dev01/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </div>
+<br>
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=WelisonBR&theme=dracula&show_icons=true"/> 
+    <img height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelisonBR&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<br>
+
